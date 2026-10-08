@@ -1,0 +1,7 @@
+streamlit
+feedparser
+requests
+beautifulsoup4
+trendspy
+sentence-transformers
+redditwarp
